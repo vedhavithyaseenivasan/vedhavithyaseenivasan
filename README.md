@@ -14,14 +14,19 @@
 - ☁️ Cloud: AWS Certified Cloud Practitioner
 
 ## 🚀 Featured Projects
+
 ### 🌟 [ResortEase – MERN Booking System](https://github.com/vedhavithyaseenivasan/resortease)
 > Online booking platform for Royal Castle Farm Stay Resort with GPay QR payments, admin panel & user dashboard.
 
 ### 💬 [Quotes Generator – Flutter App](https://github.com/vedhavithyaseenivasan/Flutter_Project)
 > A beautiful Flutter app to display and share random inspirational quotes.
 
-### 📆 [Recipe Finder](https://github.com/vedhavithyaseenivasan/Recipe)
-> 
+### 🍽️ [Recipe Finder – MERN Full Stack App](https://github.com/vedhavithyaseenivasan/recipe-finder)
+> Search and explore recipes with ingredients, calories, and cooking steps. Includes login, admin panel to add recipes, and a wishlist feature.
+
+### 📝 [Blog Platform – Full Stack App](https://github.com/vedhavithyaseenivasan/blog-platform)
+> A complete blogging website where users can sign up, log in, post articles, and manage content using MERN
+
 
 ## 📫 Let's Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vedhavithya-s/)
