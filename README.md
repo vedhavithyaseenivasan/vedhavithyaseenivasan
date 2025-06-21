@@ -21,10 +21,10 @@
 ### 💬 [Quotes Generator – Flutter App](https://github.com/vedhavithyaseenivasan/Flutter_Project)
 > A beautiful Flutter app to display and share random inspirational quotes.
 
-### 🍽️ [Recipe Finder – MERN Full Stack App](https://github.com/vedhavithyaseenivasan/recipe-finder)
+### 🍽️ [Recipe Finder – MERN Full Stack App](https://github.com/vedhavithyaseenivasan/Recipe_Finder)
 > Search and explore recipes with ingredients, calories, and cooking steps. Includes login, admin panel to add recipes, and a wishlist feature.
 
-### 📝 [Blog Platform – Full Stack App](https://github.com/vedhavithyaseenivasan/blog-platform)
+### 📝 [Blog Platform – Full Stack App](https://github.com/vedhavithyaseenivasan/Blog_Platform)
 > A complete blogging website where users can sign up, log in, post articles, and manage content using MERN
 
 
