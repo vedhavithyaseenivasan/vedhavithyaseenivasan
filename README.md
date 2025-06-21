@@ -17,11 +17,11 @@
 ### 🌟 [ResortEase – MERN Booking System](https://github.com/vedhavithyaseenivasan/resortease)
 > Online booking platform for Royal Castle Farm Stay Resort with GPay QR payments, admin panel & user dashboard.
 
-### 💬 [Quotes Generator – Flutter App](https://github.com/vedhavithyaseenivasan/quotes-generator)
+### 💬 [Quotes Generator – Flutter App](https://github.com/vedhavithyaseenivasan/Flutter_Project)
 > A beautiful Flutter app to display and share random inspirational quotes.
 
-### 📆 [Age Calculator – Flutter App](https://github.com/vedhavithyaseenivasan/age-calculator-flutter)
-> Lightweight app to calculate age in years, months, and days with date picker UI.
+### 📆 [Recipe Finder](https://github.com/vedhavithyaseenivasan/Recipe)
+> 
 
 ## 📫 Let's Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vedhavithya-s/)
