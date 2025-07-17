@@ -6,10 +6,10 @@
 📍 Based in Tamil Nadu, India
 
 ## 🔧 Technologies I Use
-- 💻 Languages: JavaScript, Java, Dart, C, C++
-- 🖼️ Frontend: React.js, HTML, CSS, Tailwind
+- 💻 Languages: Java, C, C++(Beginner) 
+- 🖼️ Frontend: React.js, HTML, CSS
 - 🛠️ Backend: Node.js, Express.js
-- 📱 Mobile: Flutter, Dart
+- 📱 Mobile: Flutter, Dart (Beginner)
 - 🗄️ Database: MongoDB, MySQL
 - ☁️ Cloud: AWS Certified Cloud Practitioner
 
