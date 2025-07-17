@@ -6,7 +6,7 @@
 📍 Based in Tamil Nadu, India
 
 ## 🔧 Technologies I Use
-- 💻 Languages: Java, C, C++(Beginner) 
+- 💻 Languages: Java, C
 - 🖼️ Frontend: React.js, HTML, CSS
 - 🛠️ Backend: Node.js, Express.js
 - 📱 Mobile: Flutter, Dart (Beginner)
