@@ -2,7 +2,8 @@
 
 🎓 Final Year B.Tech IT Student  
 💡 Passionate about Web & Mobile App Development  
-🌐 Working on MERN & Flutter Projects  
+🌐 Working on MERN 
+
 📍 Based in Tamil Nadu, India
 
 ## 🔧 Technologies I Use
